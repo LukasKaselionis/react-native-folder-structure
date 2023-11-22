@@ -1,0 +1,1 @@
+## The screens folder contains all pages that you have in app.

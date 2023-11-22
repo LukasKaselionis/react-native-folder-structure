@@ -1,0 +1,1 @@
+## Define helper functions in this folder. There are some functions that you might need across your application which generate some certain data or do something special. It’s better to keep them separate from components in order to make them reusable and make your code cleaner.

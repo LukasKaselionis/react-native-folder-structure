@@ -1,0 +1,1 @@
+## As the name says, it contains assets of our project. It consists all your static assets, such as fonts and images. It’s a good idea to organize these assets into separate subdirectories for each asset type.

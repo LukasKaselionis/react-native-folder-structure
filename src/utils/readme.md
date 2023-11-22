@@ -1,0 +1,1 @@
+## The utils folder contains various utility functions that are not related to a specific feature or module of the app. it contains any common function such as Analytics, Logger, DateTime, and etc.

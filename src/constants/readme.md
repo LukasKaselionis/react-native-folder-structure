@@ -1,0 +1,1 @@
+## This Folder stores any kind of constant that you have.
